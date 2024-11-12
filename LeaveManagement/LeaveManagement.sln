@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Web
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeaveManagement", "LeaveManagement\LeaveManagement.csproj", "{FD56F7FB-8311-4D9C-A79D-D01DD52F0A3F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LM.Core", "LM.Core\LM.Core.csproj", "{15B6233F-D623-4A3A-9D5D-10A731A452C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LM.Data", "LM.Data\LM.Data.csproj", "{77155D3F-1C85-4678-8DE2-70A3CE236890}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD56F7FB-8311-4D9C-A79D-D01DD52F0A3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD56F7FB-8311-4D9C-A79D-D01DD52F0A3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD56F7FB-8311-4D9C-A79D-D01DD52F0A3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD56F7FB-8311-4D9C-A79D-D01DD52F0A3F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15B6233F-D623-4A3A-9D5D-10A731A452C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15B6233F-D623-4A3A-9D5D-10A731A452C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15B6233F-D623-4A3A-9D5D-10A731A452C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15B6233F-D623-4A3A-9D5D-10A731A452C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77155D3F-1C85-4678-8DE2-70A3CE236890}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77155D3F-1C85-4678-8DE2-70A3CE236890}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77155D3F-1C85-4678-8DE2-70A3CE236890}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77155D3F-1C85-4678-8DE2-70A3CE236890}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

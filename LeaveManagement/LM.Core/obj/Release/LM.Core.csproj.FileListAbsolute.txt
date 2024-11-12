@@ -1,0 +1,7 @@
+C:\Users\Aniket.Varkhade\Desktop\aniket\PracticeTask\PrasadSirTasks\Web application for Leave Management\LeaveManagement\LeaveManagement\LM.Core\bin\Release\LM.Core.dll
+C:\Users\Aniket.Varkhade\Desktop\aniket\PracticeTask\PrasadSirTasks\Web application for Leave Management\LeaveManagement\LeaveManagement\LM.Core\bin\Release\LM.Core.pdb
+C:\Users\Aniket.Varkhade\Desktop\aniket\PracticeTask\PrasadSirTasks\Web application for Leave Management\LeaveManagement\LeaveManagement\LM.Core\bin\Release\LM.Data.dll
+C:\Users\Aniket.Varkhade\Desktop\aniket\PracticeTask\PrasadSirTasks\Web application for Leave Management\LeaveManagement\LeaveManagement\LM.Core\bin\Release\LM.Data.pdb
+C:\Users\Aniket.Varkhade\Desktop\aniket\PracticeTask\PrasadSirTasks\Web application for Leave Management\LeaveManagement\LeaveManagement\LM.Core\obj\Release\LM.Core.csprojResolveAssemblyReference.cache
+C:\Users\Aniket.Varkhade\Desktop\aniket\PracticeTask\PrasadSirTasks\Web application for Leave Management\LeaveManagement\LeaveManagement\LM.Core\obj\Release\LM.Core.dll
+C:\Users\Aniket.Varkhade\Desktop\aniket\PracticeTask\PrasadSirTasks\Web application for Leave Management\LeaveManagement\LeaveManagement\LM.Core\obj\Release\LM.Core.pdb
