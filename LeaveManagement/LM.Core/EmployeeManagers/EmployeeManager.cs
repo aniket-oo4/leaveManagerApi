@@ -20,11 +20,11 @@ namespace LM.Core.EmployeeManagers
        }
 
 
-    public  ActionResult<List<Employees>> GetAllEmployees(int empId)
+      public ActionResult<List<Employees>> GetAllEmployees(int orgId)
       {
           ActionResult<List<Employees>> result = new ActionResult<List<Employees>>();
           List<Employees> employeeList = new List<Employees>();
-          List<EmployeesModel> employeesModels = _employeeDataManager.GetAllEmployees(empId);
+          List<EmployeesModel> employeesModels = _employeeDataManager.GetAllEmployees(orgId);
 
           if (employeesModels.Count != 0)
           {
