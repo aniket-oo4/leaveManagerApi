@@ -17,16 +17,19 @@ namespace LM.Data
         }
 
 
-        public List<EmployeesModel> GetAllEmployees(int empId)
+        public List<EmployeesModel> GetAllEmployees(int orgId)
         {
             List<EmployeesModel> employees = new List<EmployeesModel>();
             using (SqlConnection connection = _dbConnectionHelper.CreateConnection())
             {
                 connection.Open();
 
-                String Query = @"Select E.empId,E.firstName,E.lastName, E.emailAddress, E.birthDate ,E.city,E.createdAt,E.updatedAt ,E.userId,E.dptId,D.dptName,D.location,E.costCenterId,C.Name as CostCenterName,E.roleId ,UR.roleName,E.managerId,(select firstName from Employees where Employees.empId=E.managerId) as managerName ,E.orgId ,O.name as orgName from Employees E  Left Join Organisations O on E.orgId=O.orgId  Left Join Departments D on E.dptId=D.dptId  Left Join CostCenters C on E.costCenterId=C.costCenterId  Left Join UserRoles UR on E.roleId=UR.roleId  Where E.empId <>@empId";
+                //String Query = @"Select E.empId,E.firstName,E.lastName, E.emailAddress, E.birthDate ,E.city,E.createdAt,E.updatedAt ,E.userId,E.dptId,D.dptName,D.location,E.costCenterId,C.Name as CostCenterName,E.roleId ,UR.roleName,E.managerId,(select firstName from Employees where Employees.empId=E.managerId) as managerName ,E.orgId ,O.name as orgName from Employees E  Left Join Organisations O on E.orgId=O.orgId  Left Join Departments D on E.dptId=D.dptId  Left Join CostCenters C on E.costCenterId=C.costCenterId  Left Join UserRoles UR on E.roleId=UR.roleId  Where E.empId <>@empId";
+
+                String Query = @"Select E.empId,E.firstName,E.lastName, E.emailAddress, E.birthDate ,E.city,E.createdAt,E.updatedAt ,E.userId,E.dptId,D.dptName,D.location,E.costCenterId,C.Name as CostCenterName,E.roleId ,UR.roleName,E.managerId,(select firstName from Employees where Employees.empId=E.managerId) as managerName ,E.orgId ,O.name as orgName from Employees E  Left Join Organisations O on E.orgId=O.orgId  Left Join Departments D on E.dptId=D.dptId  Left Join CostCenters C on E.costCenterId=C.costCenterId  Left Join UserRoles UR on E.roleId=UR.roleId where E.orgId=@orgId";
                 SqlCommand command = new SqlCommand(Query, connection);
-                command.Parameters.Add("@empId", empId);
+                //command.Parameters.Add("@empId", empId);
+                command.Parameters.Add("@orgId", orgId);
                 SqlDataReader dataReader = command.ExecuteReader();
                 while (dataReader.Read())
                 {

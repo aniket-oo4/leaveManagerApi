@@ -15,6 +15,29 @@ namespace LM.Data
             _dbConnectionHelper = new DbConnectionHelper();
         }
 
+       public UsersModel ChangeStatus(int userId)
+       {
+           return null;
+       }
+
+       //update User Active  Status 
+       public UsersModel updateActiveStatus(int userId, int updatedStatus)
+       {
+           using (SqlConnection connection = _dbConnectionHelper.CreateConnection())
+           {
+               connection.Open();
+               SqlCommand command;
+               String Query = "update Users set isActive=@status where userId=1";
+               command = new SqlCommand(Query, connection);
+               command.Parameters.Add("@status", updatedStatus);
+               command.Parameters.Add("@userId", userId);
+               command.ExecuteScalar();
+               return this.GetUserByUserId(userId);
+               connection.Close();
+           }
+           return null;
+       }
+
 
 
        public UsersModel GetUserByUserName(string userName)

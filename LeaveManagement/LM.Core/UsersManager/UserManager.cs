@@ -72,6 +72,7 @@ namespace LM.Core.UsersManager
        }
 
 
+
        public ActionResult<Users> GetUserByName(string userName)
        {
            ActionResult<Users> result = new ActionResult<Users>();
@@ -198,7 +199,38 @@ namespace LM.Core.UsersManager
            return result;
        }
 
+       public ActionResult<Users> UpdateUserActiveStatus(int userId, int updatedStatus)
+       {
+           ActionResult<Users> result = new ActionResult<Users>();
+           result = UserValidator.checkUserExistById(userId);
+           if (result.ErrorList.Count > 0)
+           {
+               result.IsSuccess = false;
+               result.totalRecords = 0;
+               result.resultCount = 0;
+               result.Message = "Invalid";
+               return result;
+           }
 
+
+           UsersModel userModel = _userDataManager.updateActiveStatus(userId, updatedStatus);
+
+           if (userModel != null)
+           {
+               result.Data = userModel.ToEntity();
+               result.IsSuccess = true;
+               result.resultCount = 1;
+               result.totalRecords = 1;
+               result.Message = "OK";
+           }
+           else
+           {
+               result.IsSuccess = false;
+               result.ErrorList.Add("Not Any Records Found For userId " + userId + " hence Update Failed");
+               result.Message = "Failed";
+           }
+           return result;
+       }
 
        public ActionResult<Users> UpdatePassword(int userId, string newPassword)
        {

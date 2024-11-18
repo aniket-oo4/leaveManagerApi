@@ -20,7 +20,7 @@ namespace LeaveManagement.Controllers.UsersApi
            _userManager = new UserManager();
         }
 
-        //[HttpPost]
+        [HttpPost]
         [Route("api/users/login")]
         public async Task<ActionResult<Users>> Login(LoginDto loginDto)
         {
@@ -46,6 +46,9 @@ namespace LeaveManagement.Controllers.UsersApi
             //result.Message = token;
             return result;
         }
+
+
+
 
         // GET 
          [Route("api/users/GetById/{userId}")]
@@ -122,6 +125,16 @@ namespace LeaveManagement.Controllers.UsersApi
         public ActionResult<Users> Put(int userId, [FromBody]Users user)
         {
             var result = _userManager.UpdateUser(userId, user);
+            return result;
+        }
+
+        // Put 
+        [Authorize(Roles = "admin")]
+        [HttpPut]
+        [Route("api/users/updateActiveStatus/{userId}/status/{updatedStatus}")]
+        public ActionResult<Users> updateactiveStatus(int userId, int updatedStatus)
+        {
+            var result = _userManager.UpdateUserActiveStatus(userId, updatedStatus);
             return result;
         }
 

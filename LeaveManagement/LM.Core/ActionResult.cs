@@ -18,7 +18,7 @@ namespace LM.Core
         public List<string> ErrorList { get; set; }
 
         public T Data { get; set; }  // for getting result into that 
-
+        public T GenericObject { get; set;}
         public string Message { get; set; }  // any message code Ok/Failed
         public int resultCount { get; set; }
         public int totalRecords { get; set; }
