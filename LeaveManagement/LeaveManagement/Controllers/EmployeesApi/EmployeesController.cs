@@ -26,9 +26,9 @@ namespace LeaveManagement.Controllers.EmployeesApi
         // GET 
           [Authorize(Roles = "admin")]
         [Route("api/Employees/GetAll/{empId}")]
-        public ActionResult<List<Employees>> Get(int empId)
+        public ActionResult<List<Employees>> Get(int orgId)
         {
-            var result = _employeeManager.GetAllEmployees(empId);
+            var result = _employeeManager.GetAllEmployees(orgId);
             return result;
         }
 
