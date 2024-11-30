@@ -5,3 +5,12 @@ C:\Users\Aniket.Varkhade\Desktop\aniket\PracticeTask\PrasadSirTasks\Web applicat
 C:\Users\Aniket.Varkhade\Desktop\aniket\PracticeTask\PrasadSirTasks\Web application for Leave Management\LeaveManagement\LeaveManagement\LM.Core\obj\Debug\LM.Core.csprojResolveAssemblyReference.cache
 C:\Users\Aniket.Varkhade\Desktop\aniket\PracticeTask\PrasadSirTasks\Web application for Leave Management\LeaveManagement\LeaveManagement\LM.Core\obj\Debug\LM.Core.dll
 C:\Users\Aniket.Varkhade\Desktop\aniket\PracticeTask\PrasadSirTasks\Web application for Leave Management\LeaveManagement\LeaveManagement\LM.Core\obj\Debug\LM.Core.pdb
+D:\Devlopment\MyRepo\LeaveManagement\LM.Core\bin\Debug\LM.Core.dll
+D:\Devlopment\MyRepo\LeaveManagement\LM.Core\bin\Debug\LM.Core.pdb
+D:\Devlopment\MyRepo\LeaveManagement\LM.Core\bin\Debug\LM.Data.dll
+D:\Devlopment\MyRepo\LeaveManagement\LM.Core\bin\Debug\LM.Data.pdb
+D:\Devlopment\MyRepo\LeaveManagement\LM.Core\obj\Debug\LM.Core.csproj.AssemblyReference.cache
+D:\Devlopment\MyRepo\LeaveManagement\LM.Core\obj\Debug\LM.Core.csproj.CoreCompileInputs.cache
+D:\Devlopment\MyRepo\LeaveManagement\LM.Core\obj\Debug\LM.Core.csproj.Up2Date
+D:\Devlopment\MyRepo\LeaveManagement\LM.Core\obj\Debug\LM.Core.dll
+D:\Devlopment\MyRepo\LeaveManagement\LM.Core\obj\Debug\LM.Core.pdb

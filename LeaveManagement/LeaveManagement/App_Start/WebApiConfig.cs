@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web.Http;
 using System.Web.Http.Cors;
-
+using System.Web.Cors;
 namespace LeaveManagement
 {
     public static class WebApiConfig
@@ -12,9 +12,16 @@ namespace LeaveManagement
         public static void Register(HttpConfiguration config)
         {
 
+
+            // Enable CORS globally
+            var cors = new EnableCorsAttribute("http://127.0.0.1:5500", "*", "*"); // Only allow specific origins
+            config.EnableCors(cors); // Enable the CORS configuration globally
+
+            // Add JWT Authentication filter (make sure CORS comes first)
             config.Filters.Add(new JwtAuthenticationFilter());
-            config.EnableCors(new EnableCorsAttribute("*", "*", "*")); //for Cors enable
-            config.MapHttpAttributeRoutes();// for attributes  and routing 
+
+            // Route configuration
+            config.MapHttpAttributeRoutes();
 
             config.Routes.MapHttpRoute(
                 name: "DefaultApi",

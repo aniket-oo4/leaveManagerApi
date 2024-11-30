@@ -3,3 +3,9 @@ C:\Users\Aniket.Varkhade\Desktop\aniket\PracticeTask\PrasadSirTasks\Web applicat
 C:\Users\Aniket.Varkhade\Desktop\aniket\PracticeTask\PrasadSirTasks\Web application for Leave Management\LeaveManagement\LeaveManagement\LM.Data\obj\Debug\LM.Data.dll
 C:\Users\Aniket.Varkhade\Desktop\aniket\PracticeTask\PrasadSirTasks\Web application for Leave Management\LeaveManagement\LeaveManagement\LM.Data\obj\Debug\LM.Data.pdb
 C:\Users\Aniket.Varkhade\Desktop\aniket\PracticeTask\PrasadSirTasks\Web application for Leave Management\LeaveManagement\LeaveManagement\LM.Data\obj\Debug\LM.Data.csprojResolveAssemblyReference.cache
+D:\Devlopment\MyRepo\LeaveManagement\LM.Data\bin\Debug\LM.Data.dll
+D:\Devlopment\MyRepo\LeaveManagement\LM.Data\bin\Debug\LM.Data.pdb
+D:\Devlopment\MyRepo\LeaveManagement\LM.Data\obj\Debug\LM.Data.csproj.AssemblyReference.cache
+D:\Devlopment\MyRepo\LeaveManagement\LM.Data\obj\Debug\LM.Data.csproj.CoreCompileInputs.cache
+D:\Devlopment\MyRepo\LeaveManagement\LM.Data\obj\Debug\LM.Data.dll
+D:\Devlopment\MyRepo\LeaveManagement\LM.Data\obj\Debug\LM.Data.pdb
