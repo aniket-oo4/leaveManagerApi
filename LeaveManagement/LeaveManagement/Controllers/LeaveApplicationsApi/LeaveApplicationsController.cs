@@ -34,7 +34,7 @@ namespace LeaveManagement.Controllers.LeaveApplicationsApi
            return result;
        }
 
-           //api/leaves?start=1&size=10
+           //api/leaves?start=1&size=10s
               [Authorize(Roles = "admin")]
               [Route("api/LeaveApplicationsApi/FetchOnScroll")]
            public ActionResult<List<LeaveApplications>> Get([FromUri]int start, [FromUri]int size)

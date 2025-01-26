@@ -3,35 +3,99 @@
   "WorkspaceRootPath": "D:\\Devlopment\\MyRepo\\LeaveManagement\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FD56F7FB-8311-4D9C-A79D-D01DD52F0A3F}|LeaveManagement\\LeaveManagement.csproj|d:\\devlopment\\myrepo\\leavemanagement\\leavemanagement\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{FD56F7FB-8311-4D9C-A79D-D01DD52F0A3F}|LeaveManagement\\LeaveManagement.csproj|d:\\devlopment\\myrepo\\leavemanagement\\leavemanagement\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FD56F7FB-8311-4D9C-A79D-D01DD52F0A3F}|LeaveManagement\\LeaveManagement.csproj|solutionrelative:leavemanagement\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD56F7FB-8311-4D9C-A79D-D01DD52F0A3F}|LeaveManagement\\LeaveManagement.csproj|d:\\devlopment\\myrepo\\leavemanagement\\leavemanagement\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD56F7FB-8311-4D9C-A79D-D01DD52F0A3F}|LeaveManagement\\LeaveManagement.csproj|solutionrelative:leavemanagement\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD56F7FB-8311-4D9C-A79D-D01DD52F0A3F}|LeaveManagement\\LeaveManagement.csproj|D:\\Devlopment\\MyRepo\\LeaveManagement\\leavemanagement\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{FD56F7FB-8311-4D9C-A79D-D01DD52F0A3F}|LeaveManagement\\LeaveManagement.csproj|solutionrelative:leavemanagement\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FD56F7FB-8311-4D9C-A79D-D01DD52F0A3F}|LeaveManagement\\LeaveManagement.csproj|d:\\devlopment\\myrepo\\leavemanagement\\leavemanagement\\auth\\jwtauthenticationfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FD56F7FB-8311-4D9C-A79D-D01DD52F0A3F}|LeaveManagement\\LeaveManagement.csproj|solutionrelative:leavemanagement\\auth\\jwtauthenticationfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FD56F7FB-8311-4D9C-A79D-D01DD52F0A3F}|LeaveManagement\\LeaveManagement.csproj|D:\\Devlopment\\MyRepo\\LeaveManagement\\leavemanagement\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD56F7FB-8311-4D9C-A79D-D01DD52F0A3F}|LeaveManagement\\LeaveManagement.csproj|solutionrelative:leavemanagement\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{77155D3F-1C85-4678-8DE2-70A3CE236890}|LM.Data\\LM.Data.csproj|d:\\devlopment\\myrepo\\leavemanagement\\lm.data\\dbconnectionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{77155D3F-1C85-4678-8DE2-70A3CE236890}|LM.Data\\LM.Data.csproj|D:\\Devlopment\\MyRepo\\LeaveManagement\\lm.data\\dbconnectionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{77155D3F-1C85-4678-8DE2-70A3CE236890}|LM.Data\\LM.Data.csproj|solutionrelative:lm.data\\dbconnectionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FD56F7FB-8311-4D9C-A79D-D01DD52F0A3F}|LeaveManagement\\LeaveManagement.csproj|d:\\devlopment\\myrepo\\leavemanagement\\leavemanagement\\auth\\customjwthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FD56F7FB-8311-4D9C-A79D-D01DD52F0A3F}|LeaveManagement\\LeaveManagement.csproj|solutionrelative:leavemanagement\\auth\\customjwthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FD56F7FB-8311-4D9C-A79D-D01DD52F0A3F}|LeaveManagement\\LeaveManagement.csproj|D:\\Devlopment\\MyRepo\\LeaveManagement\\leavemanagement\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD56F7FB-8311-4D9C-A79D-D01DD52F0A3F}|LeaveManagement\\LeaveManagement.csproj|solutionrelative:leavemanagement\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15B6233F-D623-4A3A-9D5D-10A731A452C4}|LM.Core\\LM.Core.csproj|D:\\Devlopment\\MyRepo\\LeaveManagement\\lm.core\\validators\\leaveapplicationvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15B6233F-D623-4A3A-9D5D-10A731A452C4}|LM.Core\\LM.Core.csproj|solutionrelative:lm.core\\validators\\leaveapplicationvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FD56F7FB-8311-4D9C-A79D-D01DD52F0A3F}|LeaveManagement\\LeaveManagement.csproj|D:\\Devlopment\\MyRepo\\LeaveManagement\\leavemanagement\\controllers\\usersapi\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FD56F7FB-8311-4D9C-A79D-D01DD52F0A3F}|LeaveManagement\\LeaveManagement.csproj|solutionrelative:leavemanagement\\controllers\\usersapi\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{15B6233F-D623-4A3A-9D5D-10A731A452C4}|LM.Core\\LM.Core.csproj|D:\\Devlopment\\MyRepo\\LeaveManagement\\lm.core\\usersmanager\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15B6233F-D623-4A3A-9D5D-10A731A452C4}|LM.Core\\LM.Core.csproj|solutionrelative:lm.core\\usersmanager\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD56F7FB-8311-4D9C-A79D-D01DD52F0A3F}|LeaveManagement\\LeaveManagement.csproj|d:\\devlopment\\myrepo\\leavemanagement\\leavemanagement\\uilayer\\leaveapplicationmanager\\admin\\customjs\\js.pages\\manageusers.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{FD56F7FB-8311-4D9C-A79D-D01DD52F0A3F}|LeaveManagement\\LeaveManagement.csproj|solutionrelative:leavemanagement\\uilayer\\leaveapplicationmanager\\admin\\customjs\\js.pages\\manageusers.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD56F7FB-8311-4D9C-A79D-D01DD52F0A3F}|LeaveManagement\\LeaveManagement.csproj|d:\\devlopment\\myrepo\\leavemanagement\\leavemanagement\\uilayer\\leaveapplicationmanager\\admin\\pages\\admin\\manageusers.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD56F7FB-8311-4D9C-A79D-D01DD52F0A3F}|LeaveManagement\\LeaveManagement.csproj|solutionrelative:leavemanagement\\uilayer\\leaveapplicationmanager\\admin\\pages\\admin\\manageusers.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15B6233F-D623-4A3A-9D5D-10A731A452C4}|LM.Core\\LM.Core.csproj|d:\\devlopment\\myrepo\\leavemanagement\\lm.core\\leavemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15B6233F-D623-4A3A-9D5D-10A731A452C4}|LM.Core\\LM.Core.csproj|solutionrelative:lm.core\\leavemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15B6233F-D623-4A3A-9D5D-10A731A452C4}|LM.Core\\LM.Core.csproj|D:\\Devlopment\\MyRepo\\LeaveManagement\\lm.core\\commonutils\\commonutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15B6233F-D623-4A3A-9D5D-10A731A452C4}|LM.Core\\LM.Core.csproj|solutionrelative:lm.core\\commonutils\\commonutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD56F7FB-8311-4D9C-A79D-D01DD52F0A3F}|LeaveManagement\\LeaveManagement.csproj|D:\\Devlopment\\MyRepo\\LeaveManagement\\leavemanagement\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{FD56F7FB-8311-4D9C-A79D-D01DD52F0A3F}|LeaveManagement\\LeaveManagement.csproj|solutionrelative:leavemanagement\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77155D3F-1C85-4678-8DE2-70A3CE236890}|LM.Data\\LM.Data.csproj|D:\\Devlopment\\MyRepo\\LeaveManagement\\lm.data\\leavedatamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77155D3F-1C85-4678-8DE2-70A3CE236890}|LM.Data\\LM.Data.csproj|solutionrelative:lm.data\\leavedatamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD56F7FB-8311-4D9C-A79D-D01DD52F0A3F}|LeaveManagement\\LeaveManagement.csproj|D:\\Devlopment\\MyRepo\\LeaveManagement\\leavemanagement\\controllers\\leaveapplicationsapi\\leaveapplicationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD56F7FB-8311-4D9C-A79D-D01DD52F0A3F}|LeaveManagement\\LeaveManagement.csproj|solutionrelative:leavemanagement\\controllers\\leaveapplicationsapi\\leaveapplicationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD56F7FB-8311-4D9C-A79D-D01DD52F0A3F}|LeaveManagement\\LeaveManagement.csproj|D:\\Devlopment\\MyRepo\\LeaveManagement\\leavemanagement\\auth\\customjwthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD56F7FB-8311-4D9C-A79D-D01DD52F0A3F}|LeaveManagement\\LeaveManagement.csproj|solutionrelative:leavemanagement\\auth\\customjwthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD56F7FB-8311-4D9C-A79D-D01DD52F0A3F}|LeaveManagement\\LeaveManagement.csproj|D:\\Devlopment\\MyRepo\\LeaveManagement\\leavemanagement\\auth\\jwtauthenticationfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD56F7FB-8311-4D9C-A79D-D01DD52F0A3F}|LeaveManagement\\LeaveManagement.csproj|solutionrelative:leavemanagement\\auth\\jwtauthenticationfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{77155D3F-1C85-4678-8DE2-70A3CE236890}|LM.Data\\LM.Data.csproj|D:\\Devlopment\\MyRepo\\LeaveManagement\\lm.data\\employeedatamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{77155D3F-1C85-4678-8DE2-70A3CE236890}|LM.Data\\LM.Data.csproj|solutionrelative:lm.data\\employeedatamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{15B6233F-D623-4A3A-9D5D-10A731A452C4}|LM.Core\\LM.Core.csproj|d:\\devlopment\\myrepo\\leavemanagement\\lm.core\\usersmanager\\encryptionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{15B6233F-D623-4A3A-9D5D-10A731A452C4}|LM.Core\\LM.Core.csproj|D:\\Devlopment\\MyRepo\\LeaveManagement\\lm.core\\employeemanagers\\employeemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15B6233F-D623-4A3A-9D5D-10A731A452C4}|LM.Core\\LM.Core.csproj|solutionrelative:lm.core\\employeemanagers\\employeemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD56F7FB-8311-4D9C-A79D-D01DD52F0A3F}|LeaveManagement\\LeaveManagement.csproj|D:\\Devlopment\\MyRepo\\LeaveManagement\\leavemanagement\\controllers\\employeesapi\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD56F7FB-8311-4D9C-A79D-D01DD52F0A3F}|LeaveManagement\\LeaveManagement.csproj|solutionrelative:leavemanagement\\controllers\\employeesapi\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD56F7FB-8311-4D9C-A79D-D01DD52F0A3F}|LeaveManagement\\LeaveManagement.csproj|D:\\Devlopment\\MyRepo\\LeaveManagement\\leavemanagement\\controllers\\orgapi\\organisationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD56F7FB-8311-4D9C-A79D-D01DD52F0A3F}|LeaveManagement\\LeaveManagement.csproj|solutionrelative:leavemanagement\\controllers\\orgapi\\organisationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15B6233F-D623-4A3A-9D5D-10A731A452C4}|LM.Core\\LM.Core.csproj|D:\\Devlopment\\MyRepo\\LeaveManagement\\lm.core\\usersmanager\\encryptionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{15B6233F-D623-4A3A-9D5D-10A731A452C4}|LM.Core\\LM.Core.csproj|solutionrelative:lm.core\\usersmanager\\encryptionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{15B6233F-D623-4A3A-9D5D-10A731A452C4}|LM.Core\\LM.Core.csproj|d:\\devlopment\\myrepo\\leavemanagement\\lm.core\\usersmanager\\passwordauthenticator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{15B6233F-D623-4A3A-9D5D-10A731A452C4}|LM.Core\\LM.Core.csproj|D:\\Devlopment\\MyRepo\\LeaveManagement\\lm.core\\usersmanager\\passwordauthenticator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{15B6233F-D623-4A3A-9D5D-10A731A452C4}|LM.Core\\LM.Core.csproj|solutionrelative:lm.core\\usersmanager\\passwordauthenticator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -43,20 +107,24 @@
       "RelativeMoniker": "D:0:0:{15B6233F-D623-4A3A-9D5D-10A731A452C4}|LM.Core\\LM.Core.csproj|solutionrelative:lm.core\\validators\\uservalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{15B6233F-D623-4A3A-9D5D-10A731A452C4}|LM.Core\\LM.Core.csproj|D:\\Devlopment\\MyRepo\\LeaveManagement\\lm.core\\usersmanager\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{15B6233F-D623-4A3A-9D5D-10A731A452C4}|LM.Core\\LM.Core.csproj|solutionrelative:lm.core\\usersmanager\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{15B6233F-D623-4A3A-9D5D-10A731A452C4}|LM.Core\\LM.Core.csproj|D:\\Devlopment\\MyRepo\\LeaveManagement\\lm.core\\actionresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15B6233F-D623-4A3A-9D5D-10A731A452C4}|LM.Core\\LM.Core.csproj|solutionrelative:lm.core\\actionresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FD56F7FB-8311-4D9C-A79D-D01DD52F0A3F}|LeaveManagement\\LeaveManagement.csproj|D:\\Devlopment\\MyRepo\\LeaveManagement\\leavemanagement\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FD56F7FB-8311-4D9C-A79D-D01DD52F0A3F}|LeaveManagement\\LeaveManagement.csproj|solutionrelative:leavemanagement\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FD56F7FB-8311-4D9C-A79D-D01DD52F0A3F}|LeaveManagement\\LeaveManagement.csproj|D:\\Devlopment\\MyRepo\\LeaveManagement\\leavemanagement\\controllers\\menusapi\\menuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD56F7FB-8311-4D9C-A79D-D01DD52F0A3F}|LeaveManagement\\LeaveManagement.csproj|solutionrelative:leavemanagement\\controllers\\menusapi\\menuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FD56F7FB-8311-4D9C-A79D-D01DD52F0A3F}|LeaveManagement\\LeaveManagement.csproj|D:\\Devlopment\\MyRepo\\LeaveManagement\\leavemanagement\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{FD56F7FB-8311-4D9C-A79D-D01DD52F0A3F}|LeaveManagement\\LeaveManagement.csproj|solutionrelative:leavemanagement\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{15B6233F-D623-4A3A-9D5D-10A731A452C4}|LM.Core\\LM.Core.csproj|D:\\Devlopment\\MyRepo\\LeaveManagement\\lm.core\\validators\\employeevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15B6233F-D623-4A3A-9D5D-10A731A452C4}|LM.Core\\LM.Core.csproj|solutionrelative:lm.core\\validators\\employeevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FD56F7FB-8311-4D9C-A79D-D01DD52F0A3F}|LeaveManagement\\LeaveManagement.csproj|D:\\Devlopment\\MyRepo\\LeaveManagement\\leavemanagement\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FD56F7FB-8311-4D9C-A79D-D01DD52F0A3F}|LeaveManagement\\LeaveManagement.csproj|solutionrelative:leavemanagement\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{15B6233F-D623-4A3A-9D5D-10A731A452C4}|LM.Core\\LM.Core.csproj|D:\\Devlopment\\MyRepo\\LeaveManagement\\lm.core\\validators\\loginvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15B6233F-D623-4A3A-9D5D-10A731A452C4}|LM.Core\\LM.Core.csproj|solutionrelative:lm.core\\validators\\loginvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77155D3F-1C85-4678-8DE2-70A3CE236890}|LM.Data\\LM.Data.csproj|D:\\Devlopment\\MyRepo\\LeaveManagement\\lm.data\\models\\userroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77155D3F-1C85-4678-8DE2-70A3CE236890}|LM.Data\\LM.Data.csproj|solutionrelative:lm.data\\models\\userroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -66,116 +134,107 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Web.config",
-              "DocumentMoniker": "D:\\Devlopment\\MyRepo\\LeaveManagement\\LeaveManagement\\Web.config",
-              "RelativeDocumentMoniker": "LeaveManagement\\Web.config",
-              "ToolTip": "D:\\Devlopment\\MyRepo\\LeaveManagement\\LeaveManagement\\Web.config",
-              "RelativeToolTip": "LeaveManagement\\Web.config",
-              "ViewState": "AgIAAEEAAAAAAAAAAAApwE8AAACdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-11-30T10:26:06.232Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 5,
               "Title": "WebApiConfig.cs",
               "DocumentMoniker": "D:\\Devlopment\\MyRepo\\LeaveManagement\\LeaveManagement\\App_Start\\WebApiConfig.cs",
               "RelativeDocumentMoniker": "LeaveManagement\\App_Start\\WebApiConfig.cs",
               "ToolTip": "D:\\Devlopment\\MyRepo\\LeaveManagement\\LeaveManagement\\App_Start\\WebApiConfig.cs",
               "RelativeToolTip": "LeaveManagement\\App_Start\\WebApiConfig.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBkAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-30T10:44:20.96Z",
-              "IsPinned": true
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "EncryptionService.cs",
-              "DocumentMoniker": "D:\\Devlopment\\MyRepo\\LeaveManagement\\LM.Core\\UsersManager\\EncryptionService.cs",
-              "RelativeDocumentMoniker": "LM.Core\\UsersManager\\EncryptionService.cs",
-              "ToolTip": "D:\\Devlopment\\MyRepo\\LeaveManagement\\LM.Core\\UsersManager\\EncryptionService.cs",
-              "RelativeToolTip": "LM.Core\\UsersManager\\EncryptionService.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAswCwAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T11:21:29.69Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CustomJwtHandler.cs",
-              "DocumentMoniker": "D:\\Devlopment\\MyRepo\\LeaveManagement\\LeaveManagement\\Auth\\CustomJwtHandler.cs",
-              "RelativeDocumentMoniker": "LeaveManagement\\Auth\\CustomJwtHandler.cs",
-              "ToolTip": "D:\\Devlopment\\MyRepo\\LeaveManagement\\LeaveManagement\\Auth\\CustomJwtHandler.cs",
-              "RelativeToolTip": "LeaveManagement\\Auth\\CustomJwtHandler.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAwwBAAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T11:21:29.763Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "JwtAuthenticationFilter.cs",
-              "DocumentMoniker": "D:\\Devlopment\\MyRepo\\LeaveManagement\\LeaveManagement\\Auth\\JwtAuthenticationFilter.cs",
-              "RelativeDocumentMoniker": "LeaveManagement\\Auth\\JwtAuthenticationFilter.cs",
-              "ToolTip": "D:\\Devlopment\\MyRepo\\LeaveManagement\\LeaveManagement\\Auth\\JwtAuthenticationFilter.cs",
-              "RelativeToolTip": "LeaveManagement\\Auth\\JwtAuthenticationFilter.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAwwBIAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T11:21:29.885Z",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Devlopment\\MyRepo\\LeaveManagement\\LeaveManagement\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "LeaveManagement\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Devlopment\\MyRepo\\LeaveManagement\\LeaveManagement\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "LeaveManagement\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-26T16:54:12.381Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\Devlopment\\MyRepo\\LeaveManagement\\LeaveManagement\\Web.config",
+              "RelativeDocumentMoniker": "LeaveManagement\\Web.config",
+              "ToolTip": "D:\\Devlopment\\MyRepo\\LeaveManagement\\LeaveManagement\\Web.config",
+              "RelativeToolTip": "LeaveManagement\\Web.config",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACQAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-01-26T16:35:38.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CommonUtils.cs",
+              "DocumentMoniker": "D:\\Devlopment\\MyRepo\\LeaveManagement\\LM.Core\\CommonUtils\\CommonUtils.cs",
+              "RelativeDocumentMoniker": "LM.Core\\CommonUtils\\CommonUtils.cs",
+              "ToolTip": "D:\\Devlopment\\MyRepo\\LeaveManagement\\LM.Core\\CommonUtils\\CommonUtils.cs",
+              "RelativeToolTip": "LM.Core\\CommonUtils\\CommonUtils.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T16:45:17.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LeaveApplicationValidator.cs",
+              "DocumentMoniker": "D:\\Devlopment\\MyRepo\\LeaveManagement\\LM.Core\\Validators\\LeaveApplicationValidator.cs",
+              "RelativeDocumentMoniker": "LM.Core\\Validators\\LeaveApplicationValidator.cs",
+              "ToolTip": "D:\\Devlopment\\MyRepo\\LeaveManagement\\LM.Core\\Validators\\LeaveApplicationValidator.cs",
+              "RelativeToolTip": "LM.Core\\Validators\\LeaveApplicationValidator.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAUwHsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T06:51:21.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "DbConnectionHelper.cs",
               "DocumentMoniker": "D:\\Devlopment\\MyRepo\\LeaveManagement\\LM.Data\\DbConnectionHelper.cs",
               "RelativeDocumentMoniker": "LM.Data\\DbConnectionHelper.cs",
               "ToolTip": "D:\\Devlopment\\MyRepo\\LeaveManagement\\LM.Data\\DbConnectionHelper.cs",
               "RelativeToolTip": "LM.Data\\DbConnectionHelper.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAgwBAAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAwwBAAAABZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-30T10:51:22.757Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "UserManager.cs",
-              "DocumentMoniker": "D:\\Devlopment\\MyRepo\\LeaveManagement\\LM.Core\\UsersManager\\UserManager.cs",
-              "RelativeDocumentMoniker": "LM.Core\\UsersManager\\UserManager.cs",
-              "ToolTip": "D:\\Devlopment\\MyRepo\\LeaveManagement\\LM.Core\\UsersManager\\UserManager.cs",
-              "RelativeToolTip": "LM.Core\\UsersManager\\UserManager.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAwwBcAAAAHAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "D:\\Devlopment\\MyRepo\\LeaveManagement\\LeaveManagement\\Global.asax.cs",
+              "RelativeDocumentMoniker": "LeaveManagement\\Global.asax.cs",
+              "ToolTip": "D:\\Devlopment\\MyRepo\\LeaveManagement\\LeaveManagement\\Global.asax.cs",
+              "RelativeToolTip": "LeaveManagement\\Global.asax.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T10:37:26.29Z",
+              "WhenOpened": "2024-11-30T10:50:10.473Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "UsersController.cs",
-              "DocumentMoniker": "D:\\Devlopment\\MyRepo\\LeaveManagement\\LeaveManagement\\Controllers\\UsersApi\\UsersController.cs",
-              "RelativeDocumentMoniker": "LeaveManagement\\Controllers\\UsersApi\\UsersController.cs",
-              "ToolTip": "D:\\Devlopment\\MyRepo\\LeaveManagement\\LeaveManagement\\Controllers\\UsersApi\\UsersController.cs",
-              "RelativeToolTip": "LeaveManagement\\Controllers\\UsersApi\\UsersController.cs",
-              "ViewState": "AgIAACUAAAAAAAAAAAAwwDEAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T10:37:26.588Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Default.aspx",
               "DocumentMoniker": "D:\\Devlopment\\MyRepo\\LeaveManagement\\LeaveManagement\\Default.aspx",
               "RelativeDocumentMoniker": "LeaveManagement\\Default.aspx",
@@ -188,7 +247,202 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LeaveManager.cs",
+              "DocumentMoniker": "D:\\Devlopment\\MyRepo\\LeaveManagement\\LM.Core\\LeaveManager.cs",
+              "RelativeDocumentMoniker": "LM.Core\\LeaveManager.cs",
+              "ToolTip": "D:\\Devlopment\\MyRepo\\LeaveManagement\\LM.Core\\LeaveManager.cs",
+              "RelativeToolTip": "LM.Core\\LeaveManager.cs",
+              "ViewState": "AgIAAKgAAAAAAAAAAAAswK4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T17:08:15.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LeaveApplicationsController.cs",
+              "DocumentMoniker": "D:\\Devlopment\\MyRepo\\LeaveManagement\\LeaveManagement\\Controllers\\LeaveApplicationsApi\\LeaveApplicationsController.cs",
+              "RelativeDocumentMoniker": "LeaveManagement\\Controllers\\LeaveApplicationsApi\\LeaveApplicationsController.cs",
+              "ToolTip": "D:\\Devlopment\\MyRepo\\LeaveManagement\\LeaveManagement\\Controllers\\LeaveApplicationsApi\\LeaveApplicationsController.cs",
+              "RelativeToolTip": "LeaveManagement\\Controllers\\LeaveApplicationsApi\\LeaveApplicationsController.cs",
+              "ViewState": "AgIAAIsAAAAAAAAAAAAswJYAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T14:41:08.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "manageusers.js",
+              "DocumentMoniker": "D:\\Devlopment\\MyRepo\\LeaveManagement\\LeaveManagement\\UILAYER\\LeaveApplicationManager\\admin\\customjs\\JS.Pages\\manageusers.js",
+              "RelativeDocumentMoniker": "LeaveManagement\\UILAYER\\LeaveApplicationManager\\admin\\customjs\\JS.Pages\\manageusers.js",
+              "ToolTip": "D:\\Devlopment\\MyRepo\\LeaveManagement\\LeaveManagement\\UILAYER\\LeaveApplicationManager\\admin\\customjs\\JS.Pages\\manageusers.js",
+              "RelativeToolTip": "LeaveManagement\\UILAYER\\LeaveApplicationManager\\admin\\customjs\\JS.Pages\\manageusers.js",
+              "ViewState": "AgIAAMwAAAAAAAAAAAAAAOYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-01-26T15:21:42.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ManageUsers.html",
+              "DocumentMoniker": "D:\\Devlopment\\MyRepo\\LeaveManagement\\LeaveManagement\\UILAYER\\LeaveApplicationManager\\admin\\Pages\\admin\\ManageUsers.html",
+              "RelativeDocumentMoniker": "LeaveManagement\\UILAYER\\LeaveApplicationManager\\admin\\Pages\\admin\\ManageUsers.html",
+              "ToolTip": "D:\\Devlopment\\MyRepo\\LeaveManagement\\LeaveManagement\\UILAYER\\LeaveApplicationManager\\admin\\Pages\\admin\\ManageUsers.html",
+              "RelativeToolTip": "LeaveManagement\\UILAYER\\LeaveApplicationManager\\admin\\Pages\\admin\\ManageUsers.html",
+              "ViewState": "AgIAAEQBAAAAAAAAAAApwE8BAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-01-26T15:28:23.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "D:\\Devlopment\\MyRepo\\LeaveManagement\\LeaveManagement\\Controllers\\UsersApi\\UsersController.cs",
+              "RelativeDocumentMoniker": "LeaveManagement\\Controllers\\UsersApi\\UsersController.cs",
+              "ToolTip": "D:\\Devlopment\\MyRepo\\LeaveManagement\\LeaveManagement\\Controllers\\UsersApi\\UsersController.cs",
+              "RelativeToolTip": "LeaveManagement\\Controllers\\UsersApi\\UsersController.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAnwHMAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T10:37:26.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserManager.cs",
+              "DocumentMoniker": "D:\\Devlopment\\MyRepo\\LeaveManagement\\LM.Core\\UsersManager\\UserManager.cs",
+              "RelativeDocumentMoniker": "LM.Core\\UsersManager\\UserManager.cs",
+              "ToolTip": "D:\\Devlopment\\MyRepo\\LeaveManagement\\LM.Core\\UsersManager\\UserManager.cs",
+              "RelativeToolTip": "LM.Core\\UsersManager\\UserManager.cs",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAjwKAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T10:37:26.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "packages.config",
+              "DocumentMoniker": "D:\\Devlopment\\MyRepo\\LeaveManagement\\LeaveManagement\\packages.config",
+              "RelativeDocumentMoniker": "LeaveManagement\\packages.config",
+              "ToolTip": "D:\\Devlopment\\MyRepo\\LeaveManagement\\LeaveManagement\\packages.config",
+              "RelativeToolTip": "LeaveManagement\\packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-01-23T17:02:04.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LeaveDataManager.cs",
+              "DocumentMoniker": "D:\\Devlopment\\MyRepo\\LeaveManagement\\LM.Data\\LeaveDataManager.cs",
+              "RelativeDocumentMoniker": "LM.Data\\LeaveDataManager.cs",
+              "ToolTip": "D:\\Devlopment\\MyRepo\\LeaveManagement\\LM.Data\\LeaveDataManager.cs",
+              "RelativeToolTip": "LM.Data\\LeaveDataManager.cs",
+              "ViewState": "AgIAAIoAAAAAAAAAAAAswI0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T16:45:16.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CustomJwtHandler.cs",
+              "DocumentMoniker": "D:\\Devlopment\\MyRepo\\LeaveManagement\\LeaveManagement\\Auth\\CustomJwtHandler.cs",
+              "RelativeDocumentMoniker": "LeaveManagement\\Auth\\CustomJwtHandler.cs",
+              "ToolTip": "D:\\Devlopment\\MyRepo\\LeaveManagement\\LeaveManagement\\Auth\\CustomJwtHandler.cs",
+              "RelativeToolTip": "LeaveManagement\\Auth\\CustomJwtHandler.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAswCYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T11:21:29.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "JwtAuthenticationFilter.cs",
+              "DocumentMoniker": "D:\\Devlopment\\MyRepo\\LeaveManagement\\LeaveManagement\\Auth\\JwtAuthenticationFilter.cs",
+              "RelativeDocumentMoniker": "LeaveManagement\\Auth\\JwtAuthenticationFilter.cs",
+              "ToolTip": "D:\\Devlopment\\MyRepo\\LeaveManagement\\LeaveManagement\\Auth\\JwtAuthenticationFilter.cs",
+              "RelativeToolTip": "LeaveManagement\\Auth\\JwtAuthenticationFilter.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAowBIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T11:21:29.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "EmployeeDataManager.cs",
+              "DocumentMoniker": "D:\\Devlopment\\MyRepo\\LeaveManagement\\LM.Data\\EmployeeDataManager.cs",
+              "RelativeDocumentMoniker": "LM.Data\\EmployeeDataManager.cs",
+              "ToolTip": "D:\\Devlopment\\MyRepo\\LeaveManagement\\LM.Data\\EmployeeDataManager.cs",
+              "RelativeToolTip": "LM.Data\\EmployeeDataManager.cs",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAswH0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T10:37:26.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "EmployeeManager.cs",
+              "DocumentMoniker": "D:\\Devlopment\\MyRepo\\LeaveManagement\\LM.Core\\EmployeeManagers\\EmployeeManager.cs",
+              "RelativeDocumentMoniker": "LM.Core\\EmployeeManagers\\EmployeeManager.cs",
+              "ToolTip": "D:\\Devlopment\\MyRepo\\LeaveManagement\\LM.Core\\EmployeeManagers\\EmployeeManager.cs",
+              "RelativeToolTip": "LM.Core\\EmployeeManagers\\EmployeeManager.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAswEoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T17:04:50.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "D:\\Devlopment\\MyRepo\\LeaveManagement\\LeaveManagement\\Controllers\\EmployeesApi\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "LeaveManagement\\Controllers\\EmployeesApi\\EmployeesController.cs",
+              "ToolTip": "D:\\Devlopment\\MyRepo\\LeaveManagement\\LeaveManagement\\Controllers\\EmployeesApi\\EmployeesController.cs",
+              "RelativeToolTip": "LeaveManagement\\Controllers\\EmployeesApi\\EmployeesController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAwwBYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T16:45:17.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "OrganisationController.cs",
+              "DocumentMoniker": "D:\\Devlopment\\MyRepo\\LeaveManagement\\LeaveManagement\\Controllers\\OrgApi\\OrganisationController.cs",
+              "RelativeDocumentMoniker": "LeaveManagement\\Controllers\\OrgApi\\OrganisationController.cs",
+              "ToolTip": "D:\\Devlopment\\MyRepo\\LeaveManagement\\LeaveManagement\\Controllers\\OrgApi\\OrganisationController.cs",
+              "RelativeToolTip": "LeaveManagement\\Controllers\\OrgApi\\OrganisationController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAA9wBwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T16:43:01.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "EncryptionService.cs",
+              "DocumentMoniker": "D:\\Devlopment\\MyRepo\\LeaveManagement\\LM.Core\\UsersManager\\EncryptionService.cs",
+              "RelativeDocumentMoniker": "LM.Core\\UsersManager\\EncryptionService.cs",
+              "ToolTip": "D:\\Devlopment\\MyRepo\\LeaveManagement\\LM.Core\\UsersManager\\EncryptionService.cs",
+              "RelativeToolTip": "LM.Core\\UsersManager\\EncryptionService.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAA/wCwAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T11:21:29.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
               "Title": "PasswordAuthenticator.cs",
               "DocumentMoniker": "D:\\Devlopment\\MyRepo\\LeaveManagement\\LM.Core\\UsersManager\\PasswordAuthenticator.cs",
               "RelativeDocumentMoniker": "LM.Core\\UsersManager\\PasswordAuthenticator.cs",
@@ -201,54 +455,94 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "EmployeeDataManager.cs",
-              "DocumentMoniker": "D:\\Devlopment\\MyRepo\\LeaveManagement\\LM.Data\\EmployeeDataManager.cs",
-              "RelativeDocumentMoniker": "LM.Data\\EmployeeDataManager.cs",
-              "ToolTip": "D:\\Devlopment\\MyRepo\\LeaveManagement\\LM.Data\\EmployeeDataManager.cs",
-              "RelativeToolTip": "LM.Data\\EmployeeDataManager.cs",
-              "ViewState": "AgIAAHEAAAAAAAAAAAAwwH0AAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T10:37:26.369Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "UserValidator.cs",
-              "DocumentMoniker": "D:\\Devlopment\\MyRepo\\LeaveManagement\\LM.Core\\Validators\\UserValidator.cs",
-              "RelativeDocumentMoniker": "LM.Core\\Validators\\UserValidator.cs",
-              "ToolTip": "D:\\Devlopment\\MyRepo\\LeaveManagement\\LM.Core\\Validators\\UserValidator.cs",
-              "RelativeToolTip": "LM.Core\\Validators\\UserValidator.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAwwDAAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T10:37:26.893Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 24,
               "Title": "UserDataManager.cs",
               "DocumentMoniker": "D:\\Devlopment\\MyRepo\\LeaveManagement\\LM.Data\\UserDataManager.cs",
               "RelativeDocumentMoniker": "LM.Data\\UserDataManager.cs",
               "ToolTip": "D:\\Devlopment\\MyRepo\\LeaveManagement\\LM.Data\\UserDataManager.cs",
               "RelativeToolTip": "LM.Data\\UserDataManager.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAwwDEAAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAACAAAAAAAAAAAAAswDEAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-30T10:37:26.057Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Global.asax.cs",
-              "DocumentMoniker": "D:\\Devlopment\\MyRepo\\LeaveManagement\\LeaveManagement\\Global.asax.cs",
-              "RelativeDocumentMoniker": "LeaveManagement\\Global.asax.cs",
-              "ToolTip": "D:\\Devlopment\\MyRepo\\LeaveManagement\\LeaveManagement\\Global.asax.cs",
-              "RelativeToolTip": "LeaveManagement\\Global.asax.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAABBAAAAAAAAAA==",
+              "DocumentIndex": 25,
+              "Title": "UserValidator.cs",
+              "DocumentMoniker": "D:\\Devlopment\\MyRepo\\LeaveManagement\\LM.Core\\Validators\\UserValidator.cs",
+              "RelativeDocumentMoniker": "LM.Core\\Validators\\UserValidator.cs",
+              "ToolTip": "D:\\Devlopment\\MyRepo\\LeaveManagement\\LM.Core\\Validators\\UserValidator.cs",
+              "RelativeToolTip": "LM.Core\\Validators\\UserValidator.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAswDAAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T10:50:10.473Z"
+              "WhenOpened": "2024-11-30T10:37:26.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ActionResult.cs",
+              "DocumentMoniker": "D:\\Devlopment\\MyRepo\\LeaveManagement\\LM.Core\\ActionResult.cs",
+              "RelativeDocumentMoniker": "LM.Core\\ActionResult.cs",
+              "ToolTip": "D:\\Devlopment\\MyRepo\\LeaveManagement\\LM.Core\\ActionResult.cs",
+              "RelativeToolTip": "LM.Core\\ActionResult.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAArwBgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T17:08:19.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "MenusController.cs",
+              "DocumentMoniker": "D:\\Devlopment\\MyRepo\\LeaveManagement\\LeaveManagement\\Controllers\\MenusApi\\MenusController.cs",
+              "RelativeDocumentMoniker": "LeaveManagement\\Controllers\\MenusApi\\MenusController.cs",
+              "ToolTip": "D:\\Devlopment\\MyRepo\\LeaveManagement\\LeaveManagement\\Controllers\\MenusApi\\MenusController.cs",
+              "RelativeToolTip": "LeaveManagement\\Controllers\\MenusApi\\MenusController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAlwBAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T16:42:48.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "LoginValidator.cs",
+              "DocumentMoniker": "D:\\Devlopment\\MyRepo\\LeaveManagement\\LM.Core\\Validators\\LoginValidator.cs",
+              "RelativeDocumentMoniker": "LM.Core\\Validators\\LoginValidator.cs",
+              "ToolTip": "D:\\Devlopment\\MyRepo\\LeaveManagement\\LM.Core\\Validators\\LoginValidator.cs",
+              "RelativeToolTip": "LM.Core\\Validators\\LoginValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T06:51:01.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "EmployeeValidator.cs",
+              "DocumentMoniker": "D:\\Devlopment\\MyRepo\\LeaveManagement\\LM.Core\\Validators\\EmployeeValidator.cs",
+              "RelativeDocumentMoniker": "LM.Core\\Validators\\EmployeeValidator.cs",
+              "ToolTip": "D:\\Devlopment\\MyRepo\\LeaveManagement\\LM.Core\\Validators\\EmployeeValidator.cs",
+              "RelativeToolTip": "LM.Core\\Validators\\EmployeeValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T06:51:33.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "UserRoles.cs",
+              "DocumentMoniker": "D:\\Devlopment\\MyRepo\\LeaveManagement\\LM.Data\\Models\\UserRoles.cs",
+              "RelativeDocumentMoniker": "LM.Data\\Models\\UserRoles.cs",
+              "ToolTip": "D:\\Devlopment\\MyRepo\\LeaveManagement\\LM.Data\\Models\\UserRoles.cs",
+              "RelativeToolTip": "LM.Data\\Models\\UserRoles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T17:04:37.807Z",
+              "EditorCaption": ""
             }
           ]
         }

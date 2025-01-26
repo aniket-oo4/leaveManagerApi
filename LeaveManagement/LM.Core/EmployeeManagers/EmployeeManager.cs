@@ -16,7 +16,6 @@ namespace LM.Core.EmployeeManagers
       public  EmployeeManager()
        {
            _employeeDataManager = new EmployeeDataManager();
-
        }
 
 
